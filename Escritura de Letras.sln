@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escritura de Letras", "Escritura de Letras\Escritura de Letras.csproj", "{21B2507D-783D-479C-8E4F-9AD1213FDD53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B2507D-783D-479C-8E4F-9AD1213FDD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B2507D-783D-479C-8E4F-9AD1213FDD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B2507D-783D-479C-8E4F-9AD1213FDD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B2507D-783D-479C-8E4F-9AD1213FDD53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58381BA6-8953-427D-BDB8-84204447B6EF}
+	EndGlobalSection
+EndGlobal
